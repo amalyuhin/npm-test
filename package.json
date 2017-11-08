@@ -1,5 +1,5 @@
 {
-  "name": "npm-test-pack",
+  "name": "npm-test-pckg",
   "version": "1.0.0",
   "description": "NPM test package",
   "main": "index.js",
