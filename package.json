@@ -1,11 +1,11 @@
 {
-  "name": "npm-test",
+  "name": "npm-test-pack",
   "version": "1.0.0",
-  "description": "",
+  "description": "NPM test package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "amalyuhin@gmail.com",
   "license": "ISC"
 }
